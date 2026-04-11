@@ -53,3 +53,5 @@ A React Native mobile application built with Expo for students at the College of
 ## Known Issues and Limitations
 
 - All data is hardcoded, no backend or database is used
+- The app is English only and does not support other languages including Dzongkha
+- Timetable does not update automatically if the schedule changes
